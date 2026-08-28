@@ -1,0 +1,2 @@
+# exercism
+Atividades de aprendizagem
